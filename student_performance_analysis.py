@@ -1,11 +1,6 @@
 """
 Student Performance Analysis System
 Reads student records from students.csv and generates a performance report.
-
-AI-use declaration:
-AI assistance was used to help plan and review the structure of this program.
-The student should run, understand, test, and be prepared to explain every part
-of the submitted code, and should follow the lecturer's AI-use policy.
 """
 
 import csv
